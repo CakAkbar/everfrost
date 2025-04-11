@@ -305,7 +305,7 @@ body.nav-active { overflow: hidden; }
   color: var(--white);
 }
 
-.header.active .nav-open-btn { color: var(--charcoal); }
+.header.active .nav-open-btn { color: var(--white); }
 
 .navbar {
   position: fixed;
