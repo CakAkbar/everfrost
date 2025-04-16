@@ -4,11 +4,11 @@
   <br />
   <br />
 
-  <h2 align="center">Adex - Business Agency Website</h2>
+  <h2 align="center">PT. Everfrost Panel Engineering</h2>
 
-  Adex is a fully responsive business agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Ahli terpercaya Anda untuk semua kebutuhan pendingin industri. <br />Dari cold storage hingga water chiller, kami siap membantu!
 
-  <a href="https://adex-eight.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://www.everfrostpanelengineering.com/"><strong>➥ Everfrost</strong></a>
 
 </div>
 
