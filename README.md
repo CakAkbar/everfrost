@@ -14,8 +14,6 @@
 
 <br />
 
-### Demo Screeshots
-
 ![Adex Desktop Demo](./readme-images/home.png "Desktop Demo")
 
 
